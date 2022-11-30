@@ -9,5 +9,16 @@ En este módulo #1 aprenderás lo siguiente:
 -   Ejecutar la funcionalidad integrada disponible a partir de bibliotecas de código
 -   Agregar lógica al código para incorporar una funcionalidad empresarial más compleja
 
-En este módulo #2 aprenderás lo siguiente:
-(.......)
+
+👀  **RECURSOS ADICIONALES**
+|
+| Recurso | Enlace |
+|--|--|
+| Diapositivas |https://drive.google.com/file/d/14OPcofpjnTHmCRAEqn7-Mzn4lvgacHpP/view?usp=sharing|
+|Video Tutorial #1  |https://youtu.be/tbX_oBiU1sw
+| | |
+|  |  |
+
+
+
+
