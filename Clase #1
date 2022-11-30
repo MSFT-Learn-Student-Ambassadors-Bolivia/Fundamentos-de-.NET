@@ -1,0 +1,22 @@
+Empiece a escribir pequeños ejemplos de código para aprender los aspectos básicos de la sintaxis de C#.
+
+Objetivos de aprendizaje
+En este módulo, aprenderá a realizar las tareas siguientes:
+
+- Escribir las primeras líneas de código de C#
+- Usar dos técnicas distintas para imprimir un mensaje en una consola de texto
+- Diagnosticar errores al escribir código incorrectamente
+- Identificar distintos elementos de la sintaxis de C#, como operadores, clases y métodos
+
+El lenguaje de programación C# permite crear muchos tipos de aplicaciones, por ejemplo:
+
+- Aplicaciones empresariales para capturar, analizar y procesar datos
+- Aplicaciones web dinámicas a las que se puede acceder desde un explorador web
+- Juegos, tanto en 2D como en 3D
+- Aplicaciones financieras y científicas
+- Aplicaciones basadas en la nube
+- Aplicaciones móviles
+
+Pero, ¿cómo se empieza a usar?
+
+Sin duda, la mejor manera de aprender a codificar consiste en escribir el máximo de código posible. Por tanto, le recomendamos que escriba código al realizar los ejercicios de este módulo y de todos los demás de esta ruta de aprendizaje. Si escribe usted mismo el código de cada ejercicio y resuelve los pequeños problemas de codificación, aprenderá mucho más rápido.
