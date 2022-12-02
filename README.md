@@ -16,7 +16,7 @@ En este módulo #1 aprenderás lo siguiente:
 |--|--|
 | Diapositivas |https://drive.google.com/file/d/14OPcofpjnTHmCRAEqn7-Mzn4lvgacHpP/view?usp=sharing|
 |Video Tutorial #1  |https://youtu.be/tbX_oBiU1sw
-| | |
+|Video Tutorial #2 |https://youtu.be/tbX_oBiU1sw |
 |  |  |
 
 
